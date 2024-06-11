@@ -1,12 +1,6 @@
-# Diamond-Price-Prediction-Linear-Regression-Stats-Model-Assumptions-Check
-
-It is a Supervised Machine Learning Project(Diamond Price Prediction).
-
-In this project,we will build a model to predict the price of Diamonds, 
-with the help of given features like- carat, cut, color, width, depth, etc.
-
-We have used Linear Stats Model for Price prediction and Have also checked the Assumptions of Linear Regression.
-
-First we will start with Basic Exploratory Data Analysis, then cleaning the data, scaling it, and then proceeding with model building.
-
-Then, model prediction and checking the accuracy. Finally, proceeding with the Linear Assumptions Check. 
+# Diamond 가격예측 모델 개선
+날짜 : 2024.6.12
+학교 및 학과 : 한양대학교 산업융합학부 정보공학과
+과목명 및 교수님 성함 : 인공지능1(정철현 교수님)
+조원 : 김민희(2021032333), 김혜린(2021069352), 임지윤(2021067783), 한은택(2020041749)
+등록한 이메일 : 
