@@ -10,5 +10,5 @@
 
 이메일 : 김민희(monday0419@naver.com), 김혜린(lyn24@hanyang.ac.kr), 임지윤(ava22coding@gmail.com), 한은택(het0219@naver.com)
 
-**Diamond_Regression.ipynb는 기존 깃허브에 있던 코드, MLP_Diamond_assignment.ipynb는 과제용 최종 코드
+
 
